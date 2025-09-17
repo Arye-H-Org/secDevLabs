@@ -1,6 +1,6 @@
 {
   "settingsInheritedFrom": "Arye-H-Org/whitesource-config@main",
-  "configProperties": {
-    "excludes": "tests/**,*.Tests/**,**/Gopkg.lock"
-}
+  "scanSettings": {
+    "configMode": "LOCAL"
+  }
 }
