@@ -1,3 +1,6 @@
 {
-  "settingsInheritedFrom": "Arye-H-Org/whitesource-config@main"
+  "settingsInheritedFrom": "Arye-H-Org/whitesource-config@main",
+  "configProperties": {
+    "excludes": "tests/**,*.Tests/**,**/Gopkg.lock"
+}
 }
