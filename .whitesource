@@ -1,6 +1,7 @@
 {
   "settingsInheritedFrom": "Arye-H-Org/whitesource-config@main",
   "scanSettings": {
-    "configMode": "LOCAL"
+    "configMode": "LOCAL",
+    "enableReachability": true
   }
 }
